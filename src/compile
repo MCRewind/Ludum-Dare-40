@@ -1,0 +1,1 @@
+g++ *.cpp -o ../release.dap -lGL -lGLEW -lglfw3 -lSOIL -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl -lXinerama -lXcursor
